@@ -22956,6 +22956,12 @@
     githubId = 26902865;
     name = "Tomas Drtina";
   };
+  tmmy = {
+    email = "me@tmmy.cc";
+    github = "tmmy-cc";
+    githubId = 93861428;
+    name = "Thomas Stahl";
+  };
   tmountain = {
     email = "tinymountain@gmail.com";
     github = "tmountain";
